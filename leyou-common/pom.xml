@@ -11,6 +11,7 @@
 
     <groupId>tech.ityoung.common</groupId>
     <artifactId>leyou-common</artifactId>
+    <!-- Lombok -->
     
          
          
